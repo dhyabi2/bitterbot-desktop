@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.1](https://github.com/Bitterbot-AI/bitterbot-desktop/compare/v1.5.0...v1.5.1) (2026-10-13)
+
+
+### Bug Fixes
+
+* **release:** make release-please actually bump the desktop Cargo.lock ([#237](https://github.com/Bitterbot-AI/bitterbot-desktop/issues/237)) ([b495b71](https://github.com/Bitterbot-AI/bitterbot-desktop/commit/b495b71b40845c18cd0308705e3f9e56da1e2c2b))
+
 ## [1.5.0](https://github.com/Bitterbot-AI/bitterbot-desktop/compare/v1.4.0...v1.5.0) (2026-10-13)
 
 
